@@ -24,5 +24,15 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+
+}
+
+#app h1{
+  color: whitesmoke;
+}
+
+body {
+  background: blue;
+  background: radial-gradient(circle, rgba(14,99,235,1) 50%, rgba(0,61,158,1) 100%);
 }
 </style>
